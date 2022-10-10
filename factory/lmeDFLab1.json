@@ -1,0 +1,9 @@
+{
+	"name": "lmeDFLab1",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4c38aa0-7f4b-4953-b93b-0dded993755c",
+		"tenantId": "d7345838-01ed-497a-a973-df4b326e28cf"
+	}
+}
